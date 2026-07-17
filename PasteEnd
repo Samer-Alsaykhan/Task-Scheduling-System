@@ -1,0 +1,17 @@
+git push origin mainUpdate project README
+
+# Conflicts:
+#	README.md
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto e222858
+# Last command done (1 command done):
+#    pick 501ec87 # Update project README
+# No commands remaining.
+# You are currently rebasing branch 'main' on 'e222858'.
+#
+# Changes to be committed:
+#	modified:   README.md
+:WQ#

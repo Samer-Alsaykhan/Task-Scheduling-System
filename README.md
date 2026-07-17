@@ -1,7 +1,7 @@
 # Task Scheduling System
 
 ## Overview
-<<<<<<< HEAD
+HEAD
 Task Scheduling System is a Java console application developed for the IT245 Data Structures course at the Saudi Electronic University. The project demonstrates how different data structures can be used to manage and schedule tasks efficiently.
 
 ## Features
@@ -65,9 +65,10 @@ java Main
 
 ## Team Members
 
-- Student 1
-- Student 2
-- Student 3
+- Samer Alsaykhan
+- Ahmed Albusaad
+- Yasir Alotaibi
+
 
 ## Future Improvements
 
@@ -96,5 +97,4 @@ This project demonstrates two different task scheduling algorithms using Java da
 
 ## Project Status
 
-Version 1.0 - Project Setup Completed
->>>>>>> 501ec87 (Update project README)
+Version 1.0 - Project Setup Completed501ec87 (Update project README)
