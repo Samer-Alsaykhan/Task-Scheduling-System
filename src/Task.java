@@ -39,3 +39,17 @@ public class Task {
         );
     }
 }
+
+@Override
+public boolean equals(Object obj) {
+    if (this == obj) return true;
+    if (!(obj instanceof Task)) return false;
+
+    Task other = (Task) obj;
+
+    return id == other.id;
+}
+@Override
+public int hashCode() {
+    return Integer.hashCode(id);
+}
