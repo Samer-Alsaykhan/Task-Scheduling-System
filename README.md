@@ -1,6 +1,7 @@
 # Task Scheduling System
 
 ## Overview
+<<<<<<< HEAD
 Task Scheduling System is a Java console application developed for the IT245 Data Structures course at the Saudi Electronic University. The project demonstrates how different data structures can be used to manage and schedule tasks efficiently.
 
 ## Features
@@ -78,3 +79,22 @@ java Main
 ## License
 
 This project was developed for educational purposes as part of the IT245 Data Structures course.
+=======
+
+This project demonstrates two different task scheduling algorithms using Java data structures.
+
+## Data Structures
+
+- Queue (FIFO)
+- Priority Queue
+
+## Team Members
+
+- Samer Alsaykhan
+- Ahmed Albusaad
+- Yasir Alotaibi
+
+## Project Status
+
+Version 1.0 - Project Setup Completed
+>>>>>>> 501ec87 (Update project README)
